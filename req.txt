@@ -1,0 +1,13 @@
+pawnd requirements
+
+###########################################################
+v0.5 Req.
+----------------------------------------------------------
+1. pawnd is a graphical chess game.
+2. v0.5 is front-end only.
+   a. v0.5 does not have multiplayer.
+3. v0.5 only uses simple GUI.
+   a. No animation.
+4. When a piece is clicked, the board highlights the
+   possible moves.
+
